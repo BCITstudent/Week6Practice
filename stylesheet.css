@@ -31,3 +31,10 @@ li:first-child{
 a[title="BCIT homepage"]{
     background-color: yellow;
 }
+
+p{
+    float:right;
+}
+p.below{
+    float:bottom;
+}
