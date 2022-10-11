@@ -10,3 +10,20 @@ ul.list > li{
     border-bottom: 1px grey solid;
     list-style: none;
 }
+
+li a:link{
+    color:green;
+}
+
+li a:visited{
+    color:red;
+}
+
+li a:hover{
+    color:pink;
+}
+
+li:first-child{
+    font-size: 120%;
+    font-weight: bold;
+}
