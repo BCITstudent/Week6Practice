@@ -32,9 +32,9 @@ a[title="BCIT homepage"]{
     background-color: yellow;
 }
 
-p{
-    float:right;
+img{
+    float: left;
 }
 p.below{
-    float:bottom;
+    clear:left;
 }
